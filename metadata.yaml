@@ -1,0 +1,28 @@
+_repo: Subsidiary-Notes-as-to-the-Introduction-of-Female-Nursing-into-Military-Hospitals-in-Peace-an__52877
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nightingale, Florence
+    birthdate: 1820
+    deathdate: 1920
+    gutenberg_agent_id: '4370'
+    url: http://www.gutenberg.org/2009/agents/4370
+    wikipedia: http://en.wikipedia.org/wiki/Florence_Nightingale
+description: ''
+gutenberg_issued: '2016-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52877'
+  lccn: '50048036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Military hospitals -- Great Britain'
+- !lcc 'UH'
+- !lcsh 'Nurses -- Great Britain'
+- GITenberg
+title: Subsidiary Notes as to the Introduction of Female Nursing into Military Hospitals
+  in Peace and War
+url: http://www.gutenberg.org/ebooks/52877
